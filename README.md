@@ -57,6 +57,8 @@ démontrant la transition du discret au continu.
 
 
 🧠 Conclusão | Conclusion
+
+
 [PTBR] Este projeto demonstra minha capacidade de unir matemática aplicada, desenvolvimento C++ e sensibilidade artística.
 
 [FR] Ce projet démontre ma capacité à unir les mathématiques appliquées, le développement en C++ et la sensibilité artistique. C'est un pas de plus dans mon parcours vers l'excellence académique et technologique.
