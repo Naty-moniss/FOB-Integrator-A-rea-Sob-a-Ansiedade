@@ -9,6 +9,7 @@
 
 
 🎵 Conexão Pessoal | Pourquoi Fall Out Boy ?
+
 [PTBR] A música é uma estrutura de dados carregada de sentimentos. Escolhi o Fall Out Boy pela complexidade de suas composições. Unir o rigor do C++ à estética da banda é provar que a lógica e a emoção podem coexistir no código.
 
 [FR] La musique est une structure de données chargée de sentiments. J'ai choisi Fall Out Boy pour la complexité de leurs compositions. Allier la rigueur du C++ à l'esthétique du groupe, c'est prouver que la logique et l'émotion peuvent coexister au sein du code. C'est une fusion entre ma passion pour l'ingénierie sonore et l'analyse réelle.
