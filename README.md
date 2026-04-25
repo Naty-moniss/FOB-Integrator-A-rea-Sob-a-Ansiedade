@@ -15,7 +15,10 @@
 [FR] La musique est une structure de données chargée de sentiments. J'ai choisi Fall Out Boy pour la complexité de leurs compositions. Allier la rigueur du C++ à l'esthétique du groupe, c'est prouver que la logique et l'émotion peuvent coexister au sein du code. C'est une fusion entre ma passion pour l'ingénierie sonore et l'analyse réelle.
 
 
+
 🛠️ Fases do Desenvolvimento | Étapes de Développement
+
+
 1. Rigor e Sintaxe | Rigueur et Syntaxe
 
  PTBR: Uso de long double para precisão máxima e a "Função Emo" definida com <cmath>.
@@ -42,6 +45,8 @@ démontrant la transition du discret au continu.
 
  FR: Comparaison entre le calcul numérique et le résultat analytique, concluant par une documentation soignée qui reflète mon identité de développeuse.
 
+ 
+
 
  🚀 Execução | Exécution
 
@@ -49,15 +54,19 @@ démontrant la transition du discret au continu.
 ./fob_integrator
 
 
+
+
 🧠 Conclusão | Conclusion
 [PTBR] Este projeto demonstra minha capacidade de unir matemática aplicada, desenvolvimento C++ e sensibilidade artística.
 
 [FR] Ce projet démontre ma capacité à unir les mathématiques appliquées, le développement en C++ et la sensibilité artistique. C'est un pas de plus dans mon parcours vers l'excellence académique et technologique.
+
 
 "Thnks fr th Mmrs" — (et pour la précision décimale).
 
 
 
 
-
-5. 
+## 📚 Referências e Estudos | Références et Études
+Este projeto é a implementação prática dos conceitos de Análise Real que estou documentando no meu repositório central de estudos:
+* [Math-foundations - Notas de Análise Real e C=alculo](https://github.com/Naty-moniss/math-foundations/blob/main/l'Analyse%20R%C3%A9elle%20(Calculus)) 
